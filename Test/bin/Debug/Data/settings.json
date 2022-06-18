@@ -1,0 +1,16 @@
+{
+  "Settings": {
+    "PrintInvalid": false,
+    "PrintCustoms": true
+  },
+  "Proxies": {
+    "ProxyTimeout": 5000,
+    "UseProxyAuth": false,
+    "ProxyAuthType": "IP:PORT:USER:PASS"
+  },
+  "Checker": {
+    "Threads": 150,
+    "Retries": 0,
+    "UseGui": true
+  }
+}
